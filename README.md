@@ -1,1 +1,2 @@
-# cs250
+# CS 250 Portfolio Reflection
+Throughout my software development education here at SNHU, I have learned that successful projects depend on understanding user needs, following structured development practices, and working effectively as part of a team. User stories provide a valuable way to capture requirements from the user's perspective, while Agile methodologies support continuous improvement and adaptability. By combining technical skills with collaboration and communication, I can contribute to the development of software that meets user expectations and deliver meaningful value.
